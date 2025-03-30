@@ -2,7 +2,7 @@
 
 Este proyecto implementa un árbol rojo-negro (RBTree) en Java, una estructura de datos balanceada que garantiza operaciones eficientes de inserción, búsqueda y eliminación en tiempo logarítmico. A continuación, se presenta una guía general sobre su funcionamiento y estructura.
 
-# Árbol Rojo-Negro
+## Árbol Rojo-Negro
 
 Los árboles rojo-negro son árboles binarios de búsqueda autoequilibrados, donde cada nodo tiene un color adicional (rojo o negro). El árbol asegura que las operaciones de inserción, eliminación y búsqueda se realicen en tiempo logarítmico, manteniendo el equilibrio del árbol mediante una serie de reglas y rotaciones.
 
